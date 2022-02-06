@@ -1,0 +1,51 @@
+h1{
+ text-align: center;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* border: 3px solid red; */
+}
+.cal-container{
+    display: block;
+    border: 3px solid black;
+    margin: auto;
+    padding: 10px;
+    background: #555;
+    height: 327px;
+}
+input{
+    text-align: right;
+    font-size: 28px;
+    height: 38px;
+    margin-bottom: 5px;
+}
+button{
+    font-size: 20px;
+    height: 52px;
+    width: 71px;
+
+}
+.last-row{
+    position: relative;
+}
+.zero{
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding: 0 5px;
+    width: 147px;
+}
+.btn1{
+    position: absolute;
+    top: 0;
+    left: 151px;
+}
+.btn2{
+    
+    position: absolute;
+    top: 0;
+    left: 226px;
+}
