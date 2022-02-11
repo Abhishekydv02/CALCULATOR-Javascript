@@ -18,7 +18,7 @@ h1{
 }
 input{
     text-align: right;
-    font-size: 28px;
+    font-size: 29.99px;
     height: 38px;
     margin-bottom: 5px;
 }
@@ -36,16 +36,16 @@ button{
     left: 0;
     position: absolute;
     padding: 0 5px;
-    width: 152px;
+    width: 153px;
 }
 .btn1{
     position: absolute;
     top: 0;
-    left: 155px;
+    left: 157px;
 }
 .btn2{
     
     position: absolute;
     top: 0;
-    left: 232px;
+    left: 235px;
 }
