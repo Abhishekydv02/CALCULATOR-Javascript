@@ -25,7 +25,7 @@ input{
 button{
     font-size: 20px;
     height: 52px;
-    width: 71px;
+    width: 74px;
 
 }
 .last-row{
@@ -36,16 +36,16 @@ button{
     left: 0;
     position: absolute;
     padding: 0 5px;
-    width: 147px;
+    width: 152px;
 }
 .btn1{
     position: absolute;
     top: 0;
-    left: 151px;
+    left: 155px;
 }
 .btn2{
     
     position: absolute;
     top: 0;
-    left: 226px;
+    left: 232px;
 }
